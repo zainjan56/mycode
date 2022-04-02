@@ -1,0 +1,235 @@
+body{
+    background-color:rgb(202, 181, 223);
+}
+
+div#container {
+    width: 1000px;
+    height: 850px;
+    margin: auto;
+}
+
+div#container h1#title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+div#container #customer {
+   height: 25px;
+   width: 250px;
+   font-weight: bold;
+   font-size: large;
+   border-radius: 5px;
+   margin-left: 10px;
+   border: none;
+}
+
+div#container label {
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+div#container #attend {
+    font-weight: bold;
+    font-size: large;
+    height: 25px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 32px;
+}
+
+div#container #product {
+    margin-top: 25px;
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    width: 250px;
+    margin-left: 25px;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+}
+
+div#container #current {
+    height: 25px;
+    width: 250px;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+    margin-left: 2px;
+
+}
+
+div#container #discount {
+    margin-top: 25px;
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    width: 250px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+}
+
+div#container #howprods {
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    width: 250px;
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+}
+
+div#container #btn1 {
+    margin-top: 20px;
+    margin-left: 400px;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px black;
+}
+div#container #btn1:hover {
+    background-color:floralwhite;
+}
+
+div#container #btn2 {
+    margin-left: 5px;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px black;
+}
+div#container #btn2:hover {
+    background-color: floralwhite;
+}
+
+div#inform {
+    width: 570px;
+    height: 400px;
+    background-color: aliceblue;
+    margin-left: 220px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px black;
+    border: 1px solid black;
+}
+
+h1#heading {
+    text-align: center;
+    text-decoration: underline;
+}
+
+div#inform input.information {
+    padding: 2px;
+    margin: 5px;
+}
+
+div#inform #in1 {
+    height: 25px;
+    width: 300px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+}
+div#inform #in2 {
+    height: 25px;
+    width: 300px;
+    margin-left: 62px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+}
+div#inform #in3 {
+    height: 25px;
+    width: 300px;
+    margin-left: 18px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+}
+div#inform #innew1 {
+    height: 25px;
+    width: 300px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+    margin-left: 64px;
+}
+div#inform #in4 {
+    height: 25px;
+    width: 300px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+}
+div#inform #in5 {
+    height: 25px;
+    width: 300px;
+    margin-left: 63px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+}
+div#inform #innew2 {
+    height: 25px;
+    width: 300px;
+    margin-left: 45px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+}
+div#inform #in6 {
+    height: 25px;
+    width: 300px;
+    margin-left: 54px;
+    font-weight: bold;
+    font-size: large;
+    background-color: aliceblue;
+    border: none;
+}
+
+button#btn3 {
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px black;
+}
+
+button#btn4 {
+    width: 150px;
+    height: 30px;
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px black;
+
+}
