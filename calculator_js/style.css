@@ -1,0 +1,55 @@
+body {
+    background-color:antiquewhite
+}
+
+div#container {
+    margin: auto;
+    width: 60%;
+    height: 500px;
+    padding: 10px;
+}
+
+div#container div.frame {
+    margin: auto;
+    width: 222px;
+    height: 346px;
+    border: 2px solid rgb(15, 6, 6);
+    border-radius: 5px;
+}
+
+div#container div.frame #number {
+    height: 40px;
+    width: 395px;
+}
+
+ div#buttons {
+    width: 220px;
+    height: 261px;
+    border: 1px solid blue;
+    background-color: white;
+    border-radius: 5px;
+}
+
+div#buttons .btna {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin: 1px;
+    font-weight: bold;
+    font-size: large;
+}
+
+div.screen {
+    width: 219px;
+    height: 80px;
+    border: 2px solid rgb(15, 6, 6);
+    background-color: white;
+    border-radius: 5px;
+}
+
+div #buttons button#equal {
+    width: 215px;
+    height: 50px;
+    margin-top: 3px;
+    border-radius: 5px;
+}
